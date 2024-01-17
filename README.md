@@ -16,3 +16,6 @@ Aplikasi untuk memudahkan para pelajar atau mahasiswa untuk menemukan beasiswa y
 Demo Aplikasi : 
 https://bit.ly/ScholarLink_Demo
 (Link berisi video demo dan screenshoot setiap page)
+
+Cara Menjalankan Produk :
+Aplikasi ini dapat dijalankan melalui file main.dart yang berada di dalam folder lib. Aplikasi ini ketika dijalankan akan dimulai dengan tampilan onboarding. 
